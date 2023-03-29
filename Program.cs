@@ -1,12 +1,10 @@
 ﻿using System;
-
-namespace HashProject // Note: actual namespace depends on the project name.
+using System.Security.Cryptography;
+namespace HashProject;
+class Program
 {
-    internal class Program
+    static void Main(string[] args)
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
-        }
+        Console.WriteLine("Hello, World!");
     }
 }
