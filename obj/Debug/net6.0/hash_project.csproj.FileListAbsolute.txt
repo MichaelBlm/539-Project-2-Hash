@@ -1,0 +1,15 @@
+/home/mike/projects/539-project-2/hash_project/bin/Debug/net6.0/hash_project
+/home/mike/projects/539-project-2/hash_project/bin/Debug/net6.0/hash_project.deps.json
+/home/mike/projects/539-project-2/hash_project/bin/Debug/net6.0/hash_project.runtimeconfig.json
+/home/mike/projects/539-project-2/hash_project/bin/Debug/net6.0/hash_project.dll
+/home/mike/projects/539-project-2/hash_project/bin/Debug/net6.0/hash_project.pdb
+/home/mike/projects/539-project-2/hash_project/obj/Debug/net6.0/hash_project.csproj.AssemblyReference.cache
+/home/mike/projects/539-project-2/hash_project/obj/Debug/net6.0/hash_project.GeneratedMSBuildEditorConfig.editorconfig
+/home/mike/projects/539-project-2/hash_project/obj/Debug/net6.0/hash_project.AssemblyInfoInputs.cache
+/home/mike/projects/539-project-2/hash_project/obj/Debug/net6.0/hash_project.AssemblyInfo.cs
+/home/mike/projects/539-project-2/hash_project/obj/Debug/net6.0/hash_project.csproj.CoreCompileInputs.cache
+/home/mike/projects/539-project-2/hash_project/obj/Debug/net6.0/hash_project.dll
+/home/mike/projects/539-project-2/hash_project/obj/Debug/net6.0/refint/hash_project.dll
+/home/mike/projects/539-project-2/hash_project/obj/Debug/net6.0/hash_project.pdb
+/home/mike/projects/539-project-2/hash_project/obj/Debug/net6.0/hash_project.genruntimeconfig.cache
+/home/mike/projects/539-project-2/hash_project/obj/Debug/net6.0/ref/hash_project.dll

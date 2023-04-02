@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "L8WBENM8l7n0gsL9UzTefuHf+zh37QM/sVI8TCwWzg3zCDboYZq4oyWp9UYubwDFIB0D4DepPmdvG9epvzYH6Q==",
+  "dgSpecHash": "rm308b2rZwdjE7O5eix8S6pBeQur5h1lC/ktshwuQGCQG/Xxv2V1KP0kNa1xYuPnGx7Gj4q2nl1FY1uqhgFPCg==",
   "success": true,
   "projectFilePath": "/home/mike/projects/539-project-2/hash_project/hash_project.csproj",
   "expectedPackageFiles": [
-    "/home/mike/.nuget/packages/microsoft.netcore.app.ref/7.0.3/microsoft.netcore.app.ref.7.0.3.nupkg.sha512",
-    "/home/mike/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.3/microsoft.aspnetcore.app.ref.7.0.3.nupkg.sha512",
-    "/home/mike/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.3/microsoft.netcore.app.host.linux-x64.7.0.3.nupkg.sha512"
+    "/home/mike/.nuget/packages/microsoft.netcore.app.ref/6.0.14/microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "/home/mike/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.14/microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512",
+    "/home/mike/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.14/microsoft.netcore.app.host.linux-x64.6.0.14.nupkg.sha512"
   ],
   "logs": []
 }
